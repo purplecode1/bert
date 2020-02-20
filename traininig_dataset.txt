@@ -415,7 +415,7 @@ LOC:other Where was the Ligurian Republic , 1797-185 , ?
 LOC:country What country 's people are the top television watchers ?
 NUM:date When was the women 's suffrage amendment ratified ?
 HUM:gr What Polynesian people inhabit New Zealand ?
-ENTY:cremat What movie tour of the Roman empire features the admonition : `` Row well and live '' ?
+ENTY:cremat What movie tour of the Roman empire features the admonition ; `` Row well and live '' ?
 LOC:city What Nevada center has been dubbed The Biggest Little City in the World ?
 HUM:ind What President lived at 219 North Delaware Street , Independence , Missouri ?
 DESC:reason Give a reason for American Indians oftentimes dropping out of school .
